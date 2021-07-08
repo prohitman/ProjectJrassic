@@ -1,0 +1,16 @@
+{
+	"language.name": "English",
+	"language.region": "United States",
+	"language.code": "en_us",
+	
+	"itemGroup.projectjurassic": "Project: Jurassic",
+
+	"item.projectjurassic.empty_amber": "Empty Amber",
+	"item.projectjurassic.filled_amber": "Amber with mosquito",
+	"item.projectjurassic.velociraptor_meat": "Velociraptor Meat",
+	"item.projectjurassic.tyrannosaurus_meat": "Tyrannosaurus Meat",
+	"item.projectjurassic.triceratops_meat": "Triceratops Meat",
+	"item.projectjurassic.gallimimus_meat": "Gallimimus Meat",
+	"item.projectjurassic.dilophosaurus_meat": "Dilophosaurus Meat",
+	"item.projectjurassic.brachiosaurus_meat": "Brachiosaurus Meat"
+}

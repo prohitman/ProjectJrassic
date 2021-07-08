@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ProjectJrassic
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-07-07T19:11:54+0100
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
